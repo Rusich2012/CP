@@ -1,0 +1,14 @@
+### Folders
+/build/
+/target/
+/out/
+
+### Gradle local cache
+.gradle
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
